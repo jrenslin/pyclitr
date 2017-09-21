@@ -186,7 +186,7 @@ if len(sys.argv) > 2 and sys.argv[1] == 'modify':
 	title = ''
 	for i in args:
 		attr = i.split(":")
-		if (len(attr) == 2):		
+		if (len(attr) == 2):
 			issue[str(attr[0])] = str(attr[1])
 		else:
 			title = title + i + " "
