@@ -7,5 +7,5 @@ I wrote about half a year ago, and am currently replacing it with a new, improve
 ## Inspirations / Thanks
 
 [Taskwarrior](https://taskwarrior.org/): 
-For both user interaction and it's de facto JSON storage structure. The only slight advantage pyclitr has over taskwarrior is if you really need a directory-specific task list.
+For both user interaction and its de facto JSON storage structure. The only slight advantage pyclitr has over taskwarrior is if you really need a directory-specific task list.
 
